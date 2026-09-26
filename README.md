@@ -1,6 +1,10 @@
 ---
 name: minimal-monochrome-design-system
 description: Use this skill whenever building a minimal, monochrome portfolio or UI — specifically for the font system, gray-ramp color tokens, halftone dot texture, and the theme toggle with circular reveal transition. Apply whenever the user asks for a "minimal design system," "dark mode toggle with transition," or "subtle dot texture."
+
+> **Live example:** this design system is used in production at
+> [remy-camiguel-portfolio.vercel.app](https://remy-camiguel-portfolio.vercel.app),
+> built by [Remy Camiguel](https://github.com/<your-github-username>).
 ---
 
 # Minimal Monochrome Design System
