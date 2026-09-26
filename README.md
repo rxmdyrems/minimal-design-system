@@ -1,7 +1,7 @@
 
 > **Live example:** this design system is used in production at
 > [remy-camiguel-portfolio.vercel.app](https://remy-camiguel-portfolio.vercel.app),
-> built by [Remy Camiguel](https://github.com/<your-github-username>).
+> built by [Remy Camiguel](https://github.com/rxmdyrems).
 
 ---
 name: minimal-monochrome-design-system
